@@ -1,6 +1,21 @@
-# Getting Started with Create React App
+# React Blog Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Overview
+This is a React Blog Application that allows users to create, read, update, delete, and search blog posts. The application fetches data from an external API and provides a user-friendly interface for managing blog content
+
+## Features
+Fetch Posts: Retrieve blog posts from an external API.
+Create Post: Add new blog posts.
+Read Post: View individual blog posts.
+Update Post: Edit existing blog posts.
+Delete Post: Remove blog posts.
+Search Posts: Search for blog posts by keywords.
+
+## Technologies Used
+Frontend: React, React Router, Axios
+State Management: React Hooks (useState, useEffect)
+Styling: CSS
+API: Placeholder API or your custom backend API
 
 ## Available Scripts
 
